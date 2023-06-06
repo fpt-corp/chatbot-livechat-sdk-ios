@@ -1,0 +1,113 @@
+{
+  "pins" : [
+    {
+      "identity" : "gsplayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wxxsw/GSPlayer.git",
+      "state" : {
+        "revision" : "aa6dad7943d52f5207f7fcc2ad3e4274583443b8",
+        "version" : "0.2.26"
+      }
+    },
+    {
+      "identity" : "handyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alibaba/HandyJSON.git",
+      "state" : {
+        "revision" : "dfab665e87f5dd56e16273222718ecd04a9a9d70",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "e8625b80c413457b13ea9be75d07f6e9f5830c19",
+        "version" : "7.7.0"
+      }
+    },
+    {
+      "identity" : "nimble",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Nimble.git",
+      "state" : {
+        "revision" : "f8657642dfdec9973efc79cc68bcef43a653a2bc",
+        "version" : "8.0.2"
+      }
+    },
+    {
+      "identity" : "quick",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Quick.git",
+      "state" : {
+        "revision" : "33682c2f6230c60614861dfc61df267e11a1602f",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "cec68169a048a079f461ba203fe85636548d7a89",
+        "version" : "5.1.3"
+      }
+    },
+    {
+      "identity" : "scclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sacOO7/ScClient",
+      "state" : {
+        "revision" : "f14737e86619481e50e5ebced1c85a51c9d1ed38",
+        "version" : "2.0.1"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "e6b65c6d9077ea48b4a7bdda8994a1d3c6969c8d",
+        "version" : "3.1.1"
+      }
+    },
+    {
+      "identity" : "swift-nio-zlib-support",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio-zlib-support.git",
+      "state" : {
+        "revision" : "37760e9a52030bb9011972c5213c3350fa9d41fd",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftuiektensions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EnesKaraosman/SwiftUIEKtensions.git",
+      "state" : {
+        "revision" : "21421df3266c99b83992face9e1523c8f1acb924",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "videoplayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wxxsw/VideoPlayer.git",
+      "state" : {
+        "revision" : "3c5b9531ee20e34d3a86142ca2c076a5b99afdb2",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "wrappinghstack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dkk/WrappingHStack.git",
+      "state" : {
+        "revision" : "f31b8fdc57759c5aa5fc98c70746db5556e73300",
+        "version" : "2.2.10"
+      }
+    }
+  ],
+  "version" : 2
+}
