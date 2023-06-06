@@ -132,12 +132,12 @@ public struct MockMessages {
 
     public static var sender: ChatUserItem = .init(
         userName: "Sender",
-        avatar:  UIImage(named: "bot_chat_icon", in: Bundle(identifier: "fpt.ai.livechatsdk"), with: nil)
+        avatar:  UIImage(named: "bot_chat_icon", in: Bundle(identifier: "fpt.ai.fptaichatbotsdk"), with: nil)
     )
 
     public static var chatbot: ChatUserItem = .init(
         userName: "Chatbot",
-        avatar: UIImage(named: "bot_chat_icon", in: Bundle(identifier: "fpt.ai.livechatsdk"), with: nil)
+        avatar: UIImage(named: "bot_chat_icon", in: Bundle(identifier: "fpt.ai.fptaichatbotsdk"), with: nil)
     )
 
     private static var randomUser: ChatUserItem {
